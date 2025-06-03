@@ -1,0 +1,2 @@
+# Reveri
+Emotional intelligence platform
